@@ -21,6 +21,7 @@ public class SelectionSortAlgorithem {
 				a[i]=a[m];
 				a[m]=temp;
 			}
+			
 		}
 		
 		Array.displayArray(a);

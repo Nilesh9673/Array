@@ -2,7 +2,7 @@ package comm.OneD_Array;
 
 public class MergeThreeArray {
 	public static void main(String[] args) {
-		int a[]= {10,20,30,40};
+		int a[]= {10,20,30,40,28};
 		int b[]= {50,60,70,80,90};
 		int c[]={100,200};
 		

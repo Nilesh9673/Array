@@ -1,5 +1,7 @@
 package comm.OneD_Array;
-//Find last occurrence of Element if not return -1
+/*Find last occurrence of Element if not return -1
+ last occurrence of Element on Particular index.
+*/
 public class LastOccuranceOfElement {
 	
 	public static int lastOccurance(int a[], int ele) {
